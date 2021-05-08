@@ -4,9 +4,9 @@
 	        "innerComponents": [],
 			"uiBuilder": {
 				"associatedTypes": ["global.core", "global.landing-page"],
-				"label": "My Component",
-				"icon": "document-outline",
-				"description": "A description of my component",
+				"label": "People Counter",
+				"icon": "user-group-fill",
+				"description": "Component to count people in a space. Developed by Jordan McCann",
 				"category": "primitives"
 			}
 	    }
